@@ -33,6 +33,14 @@ This vault is designed to be browsed in [Obsidian](https://obsidian.md/), but yo
 - Each folder represents a major topic area
 - `_resources` contains shared assets like images and templates
 - `MOC` files (Maps of Content) serve as indexes for each topic
+## Templates
+
+This vault contains reusable templates for various purposes:
+
+- **Finance**
+  - [Expense Tracker](Templates/Finance/Expense-Tracker) - Simple, low-effort transaction tracker with automatic calculations
+- **Notes**
+  - [Meeting Notes](Templates/Notes/Meeting Notes/README.md) - Structure for meeting minutes
 
 ## 🌐 How to Use This Repository
 
