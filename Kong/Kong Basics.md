@@ -1,11 +1,29 @@
 > Resources
- [ ] https://github.com/grongierisc/kong-ee-training?tab=readme-ov-file#1-intersystems-api-manager-training
+ [ ] [!Github Repo for KONG][https://github.com/grongierisc/kong-ee-training?tab=readme-ov-file#1-intersystems-api-manager-training]
 > - 
+
+## What it is
+- Kong is an open-source API gateway, a software that acts as a central point for managing and routing requests to APIs.
+## Products 
+
+- **Kong Gateway:** An open-source API gateway. 
+
+- **Kong Enterprise:** An API platform built on top of Kong Gateway. 
+
+- **Kong Konnect:** A service connectivity platform. 
+
+- **Kuma:** An open-source service mesh. 
+
+- **Kong Mesh:** An enterprise-grade service mesh built on top of Kuma. 
+
+- **Insomnia:** An open-source API design and testing tool.
 # Kong Gateway
 
 Kong Gateway is an API Gateway solution built as a Lua application. It operates within nginx, utilizing workers to provide its feature set. The architecture flows as:
 
 Sonic Commercial API → Kong → Kubernetes Servers
+
+[[Kong Gateway Enterprise]]
 ## Core Components
 
 ### Kong Control Plane (Infrastructure)
@@ -13,6 +31,7 @@ Sonic Commercial API → Kong → Kubernetes Servers
 - Houses the Kong Manager UI
 - Manages configuration and administrative functions
 - Data planes uses the config defined in control plane to redirect to the 
+- Control pane sends configuration to data plane
 
 ### Kong Data Plane (Application)
 
