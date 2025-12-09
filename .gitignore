@@ -1,5 +1,6 @@
-Stemlook/*
-Media - Archive/*
-Remote-Hub/*
-NLP-ABSA/*
-Glossary/*
+# Ignore entire folders
+Stemlook/
+Media - Archive/
+Remote-Hub/
+NLP - ABSA/
+Glossary/
