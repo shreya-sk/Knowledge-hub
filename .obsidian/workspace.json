@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Pre-requisites Devops/Devops Tools.md",
+                "file": "Daily - TIL/Trial Heading.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Devops Tools"
+              "title": "Trial Heading"
             }
           }
         ]
@@ -202,9 +202,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4068efc5adbe413b",
+  "active": "314a785241879a42",
   "lastOpenFiles": [
     "DevOps/Pre-requisites Devops/Devops Tools.md",
+    "Daily - TIL/Trial Heading.md",
+    "DevOps/Pre-requisites Devops/Untitled.md",
     "DevOps/Pre-requisites Devops/Shell Scripting.md",
     "DevOps/Pre-requisites Devops/LINUX.md",
     "DevOps/Pre-requisites Devops/Networking (ON LINUX).md",
@@ -245,10 +247,8 @@
     "DevOps/GoLang/Gin.md",
     "DevOps/GoLang/File IO.md",
     "Kong/Kong Academy.md",
-    "Daily - TIL/19 - 11 -2025.md",
     "Untitled.canvas",
     "Daily - TIL",
-    "Stemlook/Python Term class.md",
     "DevOps/Ansible",
     "DevOps/Docker/Pasted image 20250525160229.png"
   ]
