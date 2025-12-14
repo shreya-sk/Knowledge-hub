@@ -148,6 +148,7 @@ require (
 - Contains dependency checksums
 - Ensures dependency integrity
 - Should be committed to version control
+- 
 
 #### Common Module Commands
 ```bash

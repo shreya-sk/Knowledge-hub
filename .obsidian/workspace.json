@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hey, there!.md",
+                "file": "Daily - TIL/15 - 12 -2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hey, there!"
+              "title": "15 - 12 -2025"
             }
           }
         ]
@@ -167,8 +167,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -182,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -202,54 +202,54 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "314a785241879a42",
+  "active": "b5b125994970549d",
   "lastOpenFiles": [
     "Daily - TIL/10 - 12 -2025.md",
-    "Hey, there!.md",
-    "Daily - TIL/Trial Heading.md",
+    "Daily - TIL/15 - 12 -2025.md",
+    "DevOps/GoLang/Go-Syntax.md",
+    "DevOps/GoLang/Gin.md",
+    "DevOps/GoLang/Pointers.md",
+    "DevOps/Docker/Setup Docker.md",
+    "DevOps/Docker/Micro-services.md",
+    "DevOps/Docker/Docker Images.md",
+    "DevOps/Ansible/Ansible - What is.md",
+    "Glossary/Kubernetes.md",
+    "Glossary/Kong Glossary.md",
     "DevOps/Pre-requisites Devops/Devops Tools.md",
-    "DevOps/Pre-requisites Devops/Untitled.md",
-    "DevOps/Pre-requisites Devops/Shell Scripting.md",
-    "DevOps/Pre-requisites Devops/LINUX.md",
-    "DevOps/Pre-requisites Devops/Networking (ON LINUX).md",
+    "Glossary/Docker Glossary.md",
     "DevOps/Containers - Overview.md",
-    "SONIC - Overview.md",
+    "DevOps/Kubernetes/CKA prep.md",
+    "DevOps/Pre-requisites Devops/Networking (ON LINUX).md",
+    "DevOps/Pre-requisites Devops/LINUX.md",
+    "DevOps/Kubernetes/CKA - Cheat Sheet.md",
+    "DevOps/Kubernetes/YAML - k8s.md",
+    "DevOps/Kubernetes/Pasted image 20250828161504.png",
+    "Kong/Kong Academy.md",
+    "NLP - ABSA/Documentation/Presentation Slide.md",
+    "NLP - ABSA/Dashboard.md",
+    "Documentation/Novelty Points.md",
+    "Documentation",
+    "Kong/Kong overview.md",
+    "DevOps/GoLang/File IO.md",
+    "DevOps/Pre-requisites Devops/Shell Scripting.md",
     "Media - Archive/Pasted image 20251123184805.png",
     "Media - Archive/Pasted image 20251121140612.png",
-    "DevOps/12 Factor App - Method.md",
     "Media - Archive/Pasted image 20251119174258.png",
     "Media - Archive/Pasted image 20251119154650.png",
-    "DevOps/Kubernetes/CKA prep.md",
     "Media - Archive/Pasted image 20251119174424.png",
     "Media - Archive",
     "DevOps/Pre-requisites Devops/Untitled",
     "DevOps/Pre-requisites Devops",
-    "DevOps/Kubernetes/CKA - Cheat Sheet.md",
-    "DevOps/Ansible/Ansible - What is.md",
     "Untitled",
     "DevOps - Labs",
-    "DevOps/Kubernetes/Pasted image 20250828161504.png",
     "DevOps/Kubernetes/Pasted image 20250828153235.png",
     "DevOps/Kubernetes/ChatGPT Image Aug 28, 2025, 03_57_43 PM.png",
-    "DevOps/Kubernetes/YAML - k8s.md",
     "DevOps/Kubernetes/Untitled.base",
     "DevOps/Kubernetes/Untitled 1.base",
-    "Excalidraw/Drawing 2025-08-28 16.09.50.excalidraw.md",
-    "Excalidraw/Drawing 2025-05-25 16.04.27.excalidraw.md",
     "Excalidraw/Pasted Image 20250525160528_145.png",
-    "Excalidraw/tech stack.md",
-    "NLP - ABSA/Dashboard.md",
-    "DevOps/GoLang/Pointers.md",
-    "DevOps/GoLang 1/Pointers.md",
-    "DevOps/GoLang 1/Go-Syntax.md",
-    "DevOps/GoLang 1/Gin.md",
-    "DevOps/GoLang 1/File IO.md",
     "DevOps/GoLang 1",
-    "DevOps/GoLang/Go-Syntax.md",
-    "DevOps/GoLang/Gin.md",
     "Untitled.canvas",
     "Daily - TIL",
-    "DevOps/Ansible",
     "DevOps/Docker/Pasted image 20250525160229.png"
   ]
 }
